@@ -5,6 +5,7 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import android.webkit.WebSettings
 import com.example.webview3m.databinding.ActivityMainBinding
+import missing.namespace.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
